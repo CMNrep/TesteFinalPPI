@@ -1,0 +1,38 @@
+{
+  "name": "testefinalppi",
+  "version": "1.0.0",
+  "description": "Avaliação final da disciplina PPI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMNrep/TesteFinalPPI.git"
+  },
+  "keywords": [
+    "frontend",
+    "front",
+    "back",
+    "backend",
+    "web",
+    "boostrap",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Cristian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CMNrep/TesteFinalPPI/issues"
+  },
+  "homepage": "https://github.com/CMNrep/TesteFinalPPI#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
+    "mysql2": "^3.11.3"
+  }
+}
